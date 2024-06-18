@@ -1,0 +1,4 @@
+C:\Users\Azb-dSt\Documents\C#\Waschsalon\Waschsalon\obj\Debug\net8.0\Waschsalon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Azb-dSt\Documents\C#\Waschsalon\Waschsalon\obj\Debug\net8.0\Waschsalon.AssemblyInfoInputs.cache
+C:\Users\Azb-dSt\Documents\C#\Waschsalon\Waschsalon\obj\Debug\net8.0\Waschsalon.AssemblyInfo.cs
+C:\Users\Azb-dSt\Documents\C#\Waschsalon\Waschsalon\obj\Debug\net8.0\Waschsalon.csproj.CoreCompileInputs.cache
